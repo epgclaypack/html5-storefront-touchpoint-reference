@@ -18,9 +18,9 @@
 	<description>Project for importing store data via importexport.</description>
 
 	<scm>
-		<connection>scm:git:git://github.com:gclaypack/html5-storefront-touchpoint-reference.git</connection>
-		<developerConnection>scm:git:git@github.com:gclaypack/html5-storefront-touchpoint-reference.git</developerConnection>
-		<url>https://github.com/gclaypack/html5-storefront-touchpoint-reference</url>
+		<connection>scm:git:git://github.com:epgclaypack/html5-storefront-touchpoint-reference.git</connection>
+		<developerConnection>scm:git:git@github.com:epgclaypack/html5-storefront-touchpoint-reference.git</developerConnection>
+		<url>https://github.com/epgclaypack/html5-storefront-touchpoint-reference</url>
 		<tag>HEAD</tag>
 	</scm>
 
