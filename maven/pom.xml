@@ -14,9 +14,9 @@
 	<packaging>pom</packaging>
 
 	<scm>
-		<connection>scm:git:git://github.com:elasticpath/html5-storefront-touchpoint-reference.git</connection>
-		<developerConnection>scm:git:git@github.com:elasticpath/html5-storefront-touchpoint-reference.git</developerConnection>
-		<url>https://github.com/elasticpath/html5-storefront-touchpoint-reference</url>
+		<connection>scm:git:git://github.com:gclaypack/html5-storefront-touchpoint-reference.git</connection>
+		<developerConnection>scm:git:git@github.com:gclaypack/html5-storefront-touchpoint-reference.git</developerConnection>
+		<url>https://github.com/gclaypack/html5-storefront-touchpoint-reference</url>
 		<tag>HEAD</tag>
 	</scm>
 
